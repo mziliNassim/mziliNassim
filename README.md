@@ -1,19 +1,26 @@
 <img align="center" title="hello.gif" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" style="filter: invert(0); height:170px; width:999px">
 
-<h1 align="center">Hi 👋, I'm Nassim MZILI</h1>
-<h2 align="center">A passionate FullStack Developer from Morroco</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Nassim+MZILI!;" />
+</h1>
+
+<h3 align="center">A passionate FullStack Developer from Morroco</h3>
+
+<hr/>
+<br>
 
 <br />
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+- 🔭 I’m currently working on a **Ecom web app**
 
 - 📫 How to reach me **nassim@mzili.com**
 
 - 💬 Ask me about **JavaScript , JavaScript_Frameworks**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, tailwind**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **The most common password is "123456", security😅**
 
 <br />
 
@@ -32,55 +39,41 @@
 </div>
 
 <br />
+<hr/>
 
-### <h3 align="left">Languages and Tools :</h3>
+### <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30" alt="express logo"  />
-</div
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,bootstrap,tailwind,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=jquery,nodejs,express,git,vscode,postman,python" />
+</div>
+<br/>
+<hr/>
+
+### <h2 align="center">⚡ Stats ⚡</h2>
+
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=mziliNassim&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mziliNassim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mziliNassim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+<hr/>
+
+ ### <h2>🐍 My Contributions 🐍</h2>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
 
 
-<br /><br />
-
-### <h3 align="left">Github Stats :</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mziliNassim&show_icons=true&locale=en&theme=tokyonight" alt="mzilinassim" /></p>
-<br />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mziliNassim&&theme=tokyonight" alt="mzilinassim" /></p>
-
-
-<br clear="both"><br clear="both">
-
-### <h3 align="left">Most Launguage I Use:</h3>
-
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mziliNassim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mzilinassim" /></span>
+<br/><br/>
+<hr/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=F70000&center=true&vCenter=true&width=615&height=71&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F+!!;Shoot+me+a+message+on+Linkedin%2FEmail!!;I'm+always+down+to+collab!!" alt="Typing SVG" />
+</h3>
+<br/>
