@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **JavaScript , JavaScript_Frameworks**
 
-- 🌱 I’m currently learning **Python, tailwind**
+- 🌱 I’m currently learning **laravel, tailwind**
 
-- ⚡ Fun fact **The most common password is "123456", security😅**
+- ⚡ Fun fact: **"Debugging" was born when a computer met its arch-nemesis: a mischievous moth!**
 
 <br />
 
