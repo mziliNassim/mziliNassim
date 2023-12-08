@@ -27,11 +27,11 @@
 ### <h3 align="left">Connect With Me :</h3>
 
 <div align="left">
-<a href="nassim@mzili.com" target="blank"><img align="center" src="https://img.icons8.com/arcade/64/new-post--v1.png" alt="rishav_chanda" height="30" width="40" color="red"/></a>
+<a href="mailto:nassim@mzili.com" target="blank"><img align="center" src="https://img.icons8.com/arcade/64/new-post--v1.png" alt="rishav_chanda" height="30" width="40" color="red"/></a>
 <img width="12" />
-<a href="https://instagram.com/mzili_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://instagram.com/mzili_com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <img width="12" />
-<a href="https://twitter.com/mzili_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mzili_01" height="30" width="40" /></a>
+<a href="https://twitter.com/mzili_com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mzili_01" height="30" width="40" /></a>
 <img width="12" />
 <a href="https://linkedin.com/in/mzilinassim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzili_01" height="30" width="40" /></a>
 <img width="12" />
@@ -45,7 +45,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,bootstrap,tailwind,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,bootstrap,mysql,mongodb,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=jquery,nodejs,express,git,vscode,postman,python" />
 </div>
 <br/>
