@@ -30,7 +30,7 @@
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Connect with me ⚡
 
-<img title="" src="file:///C:/Users/NASSIM/Desktop/clone/mziliNassim/gif/contact.webp" alt="GIF" width="450" align="right">
+<img title="" src="./gif/contact.webp" alt="GIF" width="450" align="right">
 
 <p align="left">
   <p>
@@ -43,6 +43,8 @@ If you want to reach out to me about anything.😉.
     <a href="https://www.instagram.com/nassim__dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" width="100px" height="30px"/></a>
 </p>
 
+<br/>
+<br/>
 <br/>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Skills ⚡
