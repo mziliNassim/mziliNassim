@@ -3,12 +3,23 @@
     <img src = "https://komarev.com/ghpvc/?username=mziliNassim&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 -->
+<br>
 
 <img align="center" title="hello.gif" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" style="filter: invert(0); height:170px; width:999px">
+
+<br>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Nassim+MZILI!;" />
 </h1>
+
+<br>
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="600"></a>
+</p>
+
+<br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ About Me ⚡
 
