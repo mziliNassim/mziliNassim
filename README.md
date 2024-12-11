@@ -30,9 +30,15 @@
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Connect with me ⚡
 
-<p align="center">
+<img title="" src="file:///C:/Users/NASSIM/Desktop/clone/mziliNassim/gif/contact.webp" alt="GIF" width="450" align="right">
+
+<p align="left">
+  <p>
+If you want to reach out to me about anything.😉.
+</p>
     <a href="mailto:mzilinassim@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="100px" height="30px"/></a>
     <a href="https://github.com/mzilinassim"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" width="100px" height="30px"/></a>
+  <br>
     <a href="https://www.linkedin.com/in/mzilinassim/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" height="30px"/></a>
     <a href="https://www.instagram.com/nassim__dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" width="100px" height="30px"/></a>
 </p>
