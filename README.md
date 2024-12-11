@@ -1,3 +1,9 @@
+<!--
+<p align = "center">
+    <img src = "https://komarev.com/ghpvc/?username=mziliNassim&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+-->
+
 <img align="center" title="hello.gif" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" style="filter: invert(0); height:170px; width:999px">
 
 <h1 align="center">
