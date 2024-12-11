@@ -13,7 +13,7 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ About Me ⚡
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="./gif/1936.gif">
 </a>
 
 - 🔭 A passionate Web Full-Stack developer
@@ -27,12 +27,17 @@
 - ⚡ Fun fact: **"Debugging" was born when a computer met its arch-nemesis: a mischievous moth!**
 
 <br />
+<br />
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Connect with me ⚡
 
-<img title="" src="./gif/contact.webp" alt="GIF" width="450" align="right">
+<img title="" src="./gif/contact.webp" alt="GIF" width="450" align="left">
 
-<p align="left">
+<br/>
+<br/>
+<br/>
+
+<p align="center">
   <p>
 If you want to reach out to me about anything.😉.
 </p>
@@ -45,7 +50,6 @@ If you want to reach out to me about anything.😉.
 
 <br/>
 <br/>
-<br/>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Skills ⚡
 
@@ -54,7 +58,7 @@ If you want to reach out to me about anything.😉.
 <p align="center">
    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white" width="100px" height="30px">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-f7e025.svg?style=plastic&logo=javascript&logoColor=white" width="100px" height="30px">
    </a>
    
    <a href="https://www.python.org" target="_blank">
