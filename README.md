@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact: **"Debugging" was born when a computer met its arch-nemesis: a mischievous moth!**
 
+<br />
+
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Get In Touch ⚡
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzilinassim/)
@@ -21,6 +23,8 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mziliNassim/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nassim__dev/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bugshunting609)
+
+<br />
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Tech Stack ⚡
 
@@ -64,17 +68,23 @@
 ![Microsoft Office Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Microsoft Office Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
+<br />
+
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Spoken Languages ⚡
+
 ![English](https://img.shields.io/badge/english-%237F7F7F.svg?style=for-the-badge&logo=english&logoColor=white)
 ![Arabic](https://img.shields.io/badge/arabic-%237F7F7F.svg?style=for-the-badge&logo=arabic&logoColor=white)
 ![French](https://img.shields.io/badge/french-%237F7F7F.svg?style=for-the-badge&logo=french&logoColor=white)
 ![Tamazight](https://img.shields.io/badge/tamazight-%237F7F7F.svg?style=for-the-badge&logo=tamazight&logoColor=white)
 
+<br />
+
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Github Profile Stats ⚡
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mziliNassim&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mziliNassim&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mziliNassim&layout=compact&theme=tokyonight)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mziliNassim&langs_count=10&show_icons=true&locale=en&theme=tokyonight) -->
+<br />
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ A Snake Eating my Contributions Graph ⚡
 
